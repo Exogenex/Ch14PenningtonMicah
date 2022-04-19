@@ -7,7 +7,7 @@ using namespace std;
 
 /***************************** NumDays Class *****************************/
 
-class NumDays {
+class NumDays { // Given to me as example code to use in the program
 private:
 	double hours;
 	double days;
@@ -154,7 +154,7 @@ public:
 /***************************** Main Program *****************************/
 
 int main() {
-	/*
+	/* Example code given to me
 	NumDays one(25), two(15), three, four;
 	//display one and two
 	cout << "One: " << one.getDays() << endl;
